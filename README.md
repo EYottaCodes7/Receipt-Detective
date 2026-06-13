@@ -7,7 +7,7 @@ This program takes the account number of the boutique as an input the RN from a 
 
 ## Programming language and tech
 Java
-processing 3.4 (with java & java-scripts
+processing 3.4 (with java & java-script)
 
 ## Author
 
